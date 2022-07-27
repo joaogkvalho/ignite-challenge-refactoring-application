@@ -1,4 +1,4 @@
-
+![ignite-challenge-refactoring-application](https://user-images.githubusercontent.com/50122135/181279395-7c9afb7c-7a89-4aa4-aa9a-0c4e49a45f30.png)
 
 > Status: Finished ✔️
 
